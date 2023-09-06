@@ -1,2 +1,2 @@
 #!/bin/bash
-eho $((16#DECIMAL))
+printf "%x\n" $DECIMAL
